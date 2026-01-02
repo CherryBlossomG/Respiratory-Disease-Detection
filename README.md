@@ -302,7 +302,7 @@ PR-Final/
 │   └── ...
 └── research_question_results/         # Results (generated)
     ├── RQ1_Fig1.pdf
-    ├── RQ1_Table1.xlsx
+    ├── RQ1_Tab1.xlsx
     └── ...
 ```
 
