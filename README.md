@@ -232,13 +232,13 @@ After running the workflow, the following files will be generated:
 - `RQ5_Fig1.pdf` - Early-stage Detection Analysis
 
 **Tables (Excel format):**
-- `RQ1_Table1.xlsx` - Model Performance Metrics
-- `RQ1_Table2.xlsx` - Confusion Matrices (all models)
-- `RQ2_Table1.xlsx` - Top 20 Feature Importance
-- `RQ2_Table2.xlsx` - Feature Category Summary
-- `RQ3_Table1.xlsx` - Model Interpretability Comparison
-- `RQ4_Table1.xlsx` - Preprocessing Methods Comparison
-- `RQ5_Table1.xlsx` - Sensitivity (Recall) by Disease Type
+- `RQ1_Tab1.xlsx` - Model Performance Metrics
+- `RQ1_Tab2.xlsx` - Confusion Matrices (all models)
+- `RQ2_Tab1.xlsx` - Top 20 Feature Importance
+- `RQ2_Tab2.xlsx` - Feature Category Summary
+- `RQ3_Tab1.xlsx` - Model Interpretability Comparison
+- `RQ4_Tab1.xlsx` - Preprocessing Methods Comparison
+- `RQ5_Tab1.xlsx` - Sensitivity (Recall) by Disease Type
 
 ### Running the GUI Application
 
