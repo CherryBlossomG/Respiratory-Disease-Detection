@@ -228,7 +228,6 @@ After running the workflow, the following files will be generated:
 - `RQ2_Fig1.pdf` - Feature Importance Bar Chart
 - `RQ2_Fig2.pdf` - Feature Category Comparison
 - `RQ3_Fig1.pdf` - Interpretability Comparison
-- `RQ4_Fig1.pdf` - Preprocessing Methods Comparison
 - `RQ5_Fig1.pdf` - Early-stage Detection Analysis
 
 **Tables (Excel format):**
@@ -238,6 +237,7 @@ After running the workflow, the following files will be generated:
 - `RQ2_Tab2.xlsx` - Feature Category Summary
 - `RQ3_Tab1.xlsx` - Model Interpretability Comparison
 - `RQ4_Tab1.xlsx` - Preprocessing Methods Comparison
+- `RQ4_Tab2.xlsx` - Preprocessing Methods Comparison
 - `RQ5_Tab1.xlsx` - Sensitivity (Recall) by Disease Type
 
 ### Running the GUI Application
@@ -262,13 +262,13 @@ The GUI allows you to:
 
 - **Data Loading**: ~1-2 minutes (depends on dataset size)
 - **Preprocessing**: ~2-5 minutes
-- **Feature Extraction**: ~5-10 minutes
+- **Feature Extraction**: ~5-30 minutes
 - **Model Training**:
-  - SVM: ~1-2 minutes
-  - KNN: ~1 minute
-  - CNN: ~10-30 minutes (depends on epochs)
-  - LSTM: ~10-30 minutes (depends on epochs)
-- **Total**: ~30-60 minutes for full workflow
+  - SVM: ~1-5 minutes
+  - KNN: ~1-5 minutes
+  - CNN: ~10-40 minutes (depends on epochs)
+  - LSTM: ~10-40 minutes (depends on epochs)
+- **Total**: ~60-90 minutes for full workflow
 
 ### Troubleshooting
 
