@@ -2,7 +2,9 @@
 
 ## Project Overview
 
-This project implements an expert system for detecting respiratory diseases from breathing sounds using machine learning and deep learning techniques. The system can classify audio recordings into five categories: **Bronchial**, **COPD**, **Healthy**, **Pneumonia**, and **Asthma**.
+This project implements an expert system for detecting and classifying respiratory diseases from breathing sound recordings. The system utilizes machine learning and deep learning techniques to analyze audio signals and classify them into five categories: Bronchial, COPD (Chronic Obstructive Pulmonary Disease), healthy, pneumonia, and asthma.
+
+The system employs multiple classification models including traditional machine learning algorithms (SVM, KNN, Random Forest) and deep learning architectures (CNN, LSTM) to achieve high-accuracy disease detection. The project addresses five key research questions related to accuracy, feature effectiveness, model interpretability, preprocessing methods, and early-stage detection capabilities.
 
 ### Key Features
 
